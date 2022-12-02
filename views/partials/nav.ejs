@@ -1,0 +1,18 @@
+<nav>
+    <h1>
+        <a href="/">GameHub</a>
+    
+    </h1>
+
+    <ul>
+        <% for(const game of locals.game){%>
+            <li><a href="/game/<%=game.name%>"  >  
+                 </a></li> 
+                 <%}%>
+       <li><a href="/game/diceRoller"  >  DiceRoller  </a></li> 
+
+        <li><a href="/game/fourchette">  Fourchette  </a> </li>
+
+    </ul>
+     
+</nav>

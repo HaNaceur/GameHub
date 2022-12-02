@@ -1,0 +1,25 @@
+{
+  "name": "s03e06-atelier-duo-gamehub-westynck",
+  "version": "1.0.0",
+  "description": "Bon, on a quelques jeux qui traînent, c'est cool ! Mais c'est le bazar !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node-dev index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-Kelvin/S03E06-atelier-duo-GameHub-Westynck.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-clock-Kelvin/S03E06-atelier-duo-GameHub-Westynck/issues"
+  },
+  "homepage": "https://github.com/O-clock-Kelvin/S03E06-atelier-duo-GameHub-Westynck#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  },
+  "keywords": []
+}
